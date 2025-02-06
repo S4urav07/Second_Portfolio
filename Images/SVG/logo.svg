@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.25 26.49">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #faa635;
+        font-family: HiraMinProN-W3-83pv-RKSJ-H, 'Hiragino Mincho ProN';
+        font-size: 14px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.18em;
+      }
+
+      .cls-3 {
+        fill: #9ed6c6;
+        font-family: DevanagariSangamMN, 'Devanagari Sangam MN';
+        font-size: 18px;
+      }
+
+      .cls-4 {
+        fill: #7974ad;
+        font-family: SourceSerifVariable-Roman, 'Source Serif Variable';
+        font-size: 12px;
+        font-variation-settings: 'wght' 389;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text transform="translate(0 16.55)"><tspan><tspan class="cls-3" x="0" y="0">सौ</tspan><tspan class="cls-4" x="16.86" y="0">.</tspan><tspan class="cls-2" x="19.14" y="0">ラ</tspan><tspan class="cls-1" x="30.61" y="0">ブ</tspan></tspan></text>
+    <text/>
+  </g>
+</svg>
